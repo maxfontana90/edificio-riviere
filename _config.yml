@@ -1,3 +1,6 @@
+theme: jekyll-theme-minimal
+title: Edificio Riviere Blog
+description: Sitio web con información relevante para los propietarios e inquilinos del Edificio Riviere
 lsi: false
 safe: true
 source: '/docs'
