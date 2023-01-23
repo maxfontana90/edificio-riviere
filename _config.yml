@@ -1,4 +1,5 @@
 name: Edificio Riviere
+title: Edificio Riviere
 description: Sitio web con información relevante para los propietarios e inquilinos del Edificio Riviere
 markdown: kramdown
 remote_theme: pages-themes/primer@v0.2.0
