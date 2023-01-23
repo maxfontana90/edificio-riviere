@@ -44,6 +44,7 @@ oficial del edificio, el cual es administrado por la Administradora del Edificio
 tengas cualquier duda, ¡no dudes en escribirnos por allí!
 
 - Link de invitación al [grupo de Whatsapp](https://chat.whatsapp.com/DRYKJCNNcmn4JfpFsMBdPf) alternativo
+![Whatsapp Link de Invitación](/assets/whatsapp-invite-link.png)
 
 ## Horarios
 ### Descanso
@@ -89,8 +90,6 @@ Las motos no deben estacionarse en los espacios comunes de las cocheras. Sólo d
 Está terminantemente prohibido estacionar bicicletas en los pasillos, escaleras y/o palier del edificio.
 Toda bicicleta estacionada en un lugar indebido que entorpezca la circulación de vehículos y/o peatones será objeto de sanción y se le aplicará la multa correspondiente.
 
-
 ## Más información
 * Ver [Reglamento de Copropiedad](https://drive.google.com/file/d/1_-x7bWYy1vnPVfjiOhZOVDB2idoIyeDv/view?usp=share_link)
 * Ver [Minutas](https://docs.google.com/document/d/1tjcJ12g7l1u6-9LO50RVl30bLEj6dt3OLbwK9y5Uw3M/edit?usp=sharing) de reuniones vecinales
-
