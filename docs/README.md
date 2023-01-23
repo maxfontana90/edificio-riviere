@@ -1,33 +1,32 @@
 ---
 layout: page
-title: "Inicio | Edificio Riviere"
+title: "Edificio Riviere"
 permalink: /
 ---
 
+# Edificio Riviere
+
+## Tabla de Contenidos
 - [Edificio Riviere](#edificio-riviere)
-    * [¿Sos un nuevo inquilino y/o propietario?](#-sos-un-nuevo-inquilino-y-o-propietario-)
+    * [¿Sos un nuevo inquilino y/o propietario?](#sos-un-nuevo-inquilino-yo-propietario)
     * [Grupo de Whatsapp](#grupo-de-whatsapp)
     * [Horarios](#horarios)
         + [Descanso](#descanso)
             - [Lunes a Viernes (Hábiles)](#lunes-a-viernes--h-biles-)
-            - [Sábados](#s-bados)
+            - [Sábados](#sábados)
             - [Domingos y Feriados](#domingos-y-feriados)
         + [Reparaciones](#reparaciones)
-            - [Lunes a Viernes (Hábiles)](#lunes-a-viernes--h-biles--1)
-            - [Sábados](#s-bados-1)
+            - [Lunes a Viernes (Hábiles)](#lunes-a-viernes-hábiles)
+            - [Sábados](#sábados-1)
             - [Domingos y Feriados](#domingos-y-feriados-1)
         + [Mudanzas](#mudanzas)
-            - [Lunes a Viernes (Hábiles)](#lunes-a-viernes--h-biles--2)
-            - [Sábados](#s-bados-2)
+            - [Lunes a Viernes (Hábiles)](#lunes-a-viernes-hábiles-1)
+            - [Sábados](#sábados-2)
             - [Domingos y Feriados](#domingos-y-feriados-2)
     * [Reglas de Estacionamiento](#reglas-de-estacionamiento)
         + [Motocicletas](#motocicletas)
         + [Bicicletas](#bicicletas)
-    * [Más información](#m-s-informaci-n)
-
-
-
-# Edificio Riviere
+    * [Más información](#más-información)
 
 ## ¿Sos un nuevo inquilino y/o propietario?
 Para todos aquellos nuevos inquilinos y/o propietarios del edificio, se les solicita 
