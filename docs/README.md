@@ -8,7 +8,7 @@ published: true
 # Edificio Riviere
 
 ## Tabla de Contenidos
-  * [¿Sos un nuevo inquilino y/o propietario?](#sos-un-nuevo-inquilino-yo-propietario)
+  * [¿Sos un nuevo inquilino o propietario?](#sos-un-nuevo-inquilino-yo-propietario)
   * [Grupo de Whatsapp](#grupo-de-whatsapp)
   * [Horarios](#horarios)
       + [Descanso](#descanso)
