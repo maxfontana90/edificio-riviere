@@ -12,15 +12,15 @@ permalink: /
     * [Grupo de Whatsapp](#grupo-de-whatsapp)
     * [Horarios](#horarios)
         + [Descanso](#descanso)
-            - [Lunes a Viernes (Hábiles)](#lunes-a-viernes--h-biles-)
+            - [Lunes a Viernes (Hábiles)](#lunes-a-viernes-hábiles)
             - [Sábados](#sábados)
             - [Domingos y Feriados](#domingos-y-feriados)
         + [Reparaciones](#reparaciones)
-            - [Lunes a Viernes (Hábiles)](#lunes-a-viernes-hábiles)
+            - [Lunes a Viernes (Hábiles)](#lunes-a-viernes-hábiles-1)
             - [Sábados](#sábados-1)
             - [Domingos y Feriados](#domingos-y-feriados-1)
         + [Mudanzas](#mudanzas)
-            - [Lunes a Viernes (Hábiles)](#lunes-a-viernes-hábiles-1)
+            - [Lunes a Viernes (Hábiles)](#lunes-a-viernes-hábiles-2)
             - [Sábados](#sábados-2)
             - [Domingos y Feriados](#domingos-y-feriados-2)
     * [Reglas de Estacionamiento](#reglas-de-estacionamiento)
@@ -78,12 +78,12 @@ De 08:00hs a las 12:00hs
 Está prohibido realizar mudanzas los Domingos y/o Feriados.
 En todos los casos, las mudanzas deberán informarse a la Administración con una antelación mínima de 48 horas.
 
-NOTA: AQUELLOS CONSORCISTAS Y/O VISITAS QUE NO CUMPLAN CON LAS REGLAS DE CONVIVENCIA Y/O CON LOS HORARIOS ESTABLECIDOS, SERÁN PASIBLES DE UNA MULTA. EN CASO DE VISITAS LA MULTA SE APLICARÁ AL CONSORCISTA RESPECTIVO.
+**NOTA:** _AQUELLOS CONSORCISTAS Y/O VISITAS QUE NO CUMPLAN CON LAS REGLAS DE CONVIVENCIA Y/O CON LOS HORARIOS ESTABLECIDOS, SERÁN PASIBLES DE UNA MULTA. EN CASO DE VISITAS LA MULTA SE APLICARÁ AL CONSORCISTA RESPECTIVO._
 
 ## Reglas de Estacionamiento
 
 ### Motocicletas
-* Las motos no deben estacionarse en los espacios comunes de las cocheras. Sólo deben estacionarse en el espacio demarcado para las mismas.
+Las motos no deben estacionarse en los espacios comunes de las cocheras. Sólo deben estacionarse en el espacio demarcado para las mismas.
 
 ### Bicicletas
 Está terminantemente prohibido estacionar bicicletas en los pasillos, escaleras y/o palier del edificio.
