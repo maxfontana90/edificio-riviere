@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Edificio Riviere
 
 ## Tabla de Contenidos
