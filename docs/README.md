@@ -12,17 +12,8 @@ permalink: /
     * [Grupo de Whatsapp](#grupo-de-whatsapp)
     * [Horarios](#horarios)
         + [Descanso](#descanso)
-            - [Lunes a Viernes (Hábiles)](#lunes-a-viernes-hábiles)
-            - [Sábados](#sábados)
-            - [Domingos y Feriados](#domingos-y-feriados)
         + [Reparaciones](#reparaciones)
-            - [Lunes a Viernes (Hábiles)](#lunes-a-viernes-hábiles-1)
-            - [Sábados](#sábados-1)
-            - [Domingos y Feriados](#domingos-y-feriados-1)
         + [Mudanzas](#mudanzas)
-            - [Lunes a Viernes (Hábiles)](#lunes-a-viernes-hábiles-2)
-            - [Sábados](#sábados-2)
-            - [Domingos y Feriados](#domingos-y-feriados-2)
     * [Reglas de Estacionamiento](#reglas-de-estacionamiento)
         + [Motocicletas](#motocicletas)
         + [Bicicletas](#bicicletas)
@@ -44,7 +35,8 @@ oficial del edificio, el cual es administrado por la Administradora del Edificio
 tengas cualquier duda, ¡no dudes en escribirnos por allí!
 
 - Link de invitación al [grupo de Whatsapp](https://chat.whatsapp.com/DRYKJCNNcmn4JfpFsMBdPf) alternativo
-![Whatsapp Link de Invitación](/assets/whatsapp-invite-link.png)
+
+<img alt="Whatsapp Link de Invitación" src="https://maxfontana90.github.io/edificio-riviere/assets/whatsapp-invite-link.png" width="250" height="250">
 
 ## Horarios
 ### Descanso
