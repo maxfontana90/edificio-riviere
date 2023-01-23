@@ -8,17 +8,16 @@ published: true
 # Edificio Riviere
 
 ## Tabla de Contenidos
-- [Edificio Riviere](#edificio-riviere)
-    * [¿Sos un nuevo inquilino y/o propietario?](#sos-un-nuevo-inquilino-yo-propietario)
-    * [Grupo de Whatsapp](#grupo-de-whatsapp)
-    * [Horarios](#horarios)
-        + [Descanso](#descanso)
-        + [Reparaciones](#reparaciones)
-        + [Mudanzas](#mudanzas)
-    * [Reglas de Estacionamiento](#reglas-de-estacionamiento)
-        + [Motocicletas](#motocicletas)
-        + [Bicicletas](#bicicletas)
-    * [Más información](#más-información)
+  * [¿Sos un nuevo inquilino y/o propietario?](#sos-un-nuevo-inquilino-yo-propietario)
+  * [Grupo de Whatsapp](#grupo-de-whatsapp)
+  * [Horarios](#horarios)
+      + [Descanso](#descanso)
+      + [Reparaciones](#reparaciones)
+      + [Mudanzas](#mudanzas)
+  * [Reglas de Estacionamiento](#reglas-de-estacionamiento)
+      + [Motocicletas](#motocicletas)
+      + [Bicicletas](#bicicletas)
+  * [Más información](#más-información)
 
 ## ¿Sos un nuevo inquilino y/o propietario?
 Para todos aquellos nuevos inquilinos y/o propietarios del edificio, se les solicita 
