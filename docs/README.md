@@ -1,5 +1,8 @@
 ---
+title: Edificio Riviere
 layout: default
+permalink: /
+published: true
 ---
 
 # Edificio Riviere
