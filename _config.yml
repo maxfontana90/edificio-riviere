@@ -1,5 +1,6 @@
 name: Edificio Riviere
 description: Sitio web con información relevante para los propietarios e inquilinos del Edificio Riviere
+theme: minima
 lsi: false
 safe: true
 source: '/docs'
