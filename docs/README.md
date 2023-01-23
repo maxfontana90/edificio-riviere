@@ -1,9 +1,3 @@
----
-layout: page
-title: "Edificio Riviere"
-permalink: /
----
-
 # Edificio Riviere
 
 ## Tabla de Contenidos
